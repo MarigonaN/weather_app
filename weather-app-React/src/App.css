@@ -8,10 +8,10 @@ body {
 }
 
 .app{
-  background-image: url('./assets/winter.jpg');
+  background-image: url('./assets/cloud.jpg');
   background-size: cover;
   background-position: bottom;
-  transition: 0.4 ease-out;
+  transition: 0.4s ease-out;
 }
 
 .app.warm{
